@@ -1,0 +1,4 @@
+ps -ef|grep tSA|grep -v grep
+
+CLEAR.FILE F.TSA.STATUS
+
